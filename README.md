@@ -1,2 +1,3 @@
 # vue3-datagrid
-Menampilkan data pada sebuah tabel
+
+Menampilkan data pada sebuah tabel menggunakan framework vue3
